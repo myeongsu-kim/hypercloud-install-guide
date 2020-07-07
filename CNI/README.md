@@ -8,9 +8,9 @@
 ## 구성 요소 및 버전
 * calico/node ([calico/node:v3.13.4](https://hub.docker.com/layers/calico/node/v3.13.4/images/sha256-2656efc741e90750282ad89b9ec078588b98909e5cd0b8d1256f2059466e1717?context=explore))
 * calico/pod2daemon-flexvol ([calico/pod2daemon-flexvol:v3.13.4](https://hub.docker.com/layers/calico/pod2daemon-flexvol/v3.13.4/images/sha256-3a12c023e964104ebf8af330bc74fa25831e961c871f8024bd6917c1357a57a6?context=explore))
-* calico/cni ([calico/cni:v.3.13.4](https://hub.docker.com/layers/calico/cni/v3.13.4/images/sha256-20a74b0c29e57b7e0a3bfd4474e98d3968f3f0edb1f307c9c789b8ed339971db?context=explore))
-* calico/kube-controllers ([calico/kube-controllers:v.3.13.4](https://hub.docker.com/layers/calico/kube-controllers/v3.13.4/images/sha256-49404c910b50bdd93003315d1774c18f445589b1059b24eae2ebaa056c565e8c?context=explore))
-* calico/ctl ([calico/ctl:v.3.15.0](https://registry.hub.docker.com/layers/calico/ctl/v3.15.0/images/sha256-09a08c8ef2ef637aadb3d2cc46965b8ba73e0e4cf863c836ad114cc3292822aa?context=explore))
+* calico/cni ([calico/cni:v3.13.4](https://hub.docker.com/layers/calico/cni/v3.13.4/images/sha256-20a74b0c29e57b7e0a3bfd4474e98d3968f3f0edb1f307c9c789b8ed339971db?context=explore))
+* calico/kube-controllers ([calico/kube-controllers:v3.13.4](https://hub.docker.com/layers/calico/kube-controllers/v3.13.4/images/sha256-49404c910b50bdd93003315d1774c18f445589b1059b24eae2ebaa056c565e8c?context=explore))
+* calico/ctl ([calico/ctl:v3.15.0](https://registry.hub.docker.com/layers/calico/ctl/v3.15.0/images/sha256-09a08c8ef2ef637aadb3d2cc46965b8ba73e0e4cf863c836ad114cc3292822aa?context=explore))
 
 ## Prerequisites
 
